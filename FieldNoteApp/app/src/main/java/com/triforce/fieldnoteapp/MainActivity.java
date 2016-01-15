@@ -5,8 +5,10 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-
+//just making comments here for GIT testing
 public class MainActivity extends Activity {
+
+    int i;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
